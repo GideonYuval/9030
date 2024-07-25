@@ -101,8 +101,10 @@ namespace _9030
         // example: before: ->8->7->9->5->10->9->4->4->3->9, after:  ->8->7->5->4->4->3
         // example: before: ->5, after: ->5
         // example: before: null, after: null
-
+        public static void deleteGreaters(Node<int> lst)
+        {
 
         }
     }
+}
 
